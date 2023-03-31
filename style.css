@@ -1,0 +1,43 @@
+/* Style for header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 1em;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Style for main content */
+  main {
+    max-width: 800px;
+    margin: 2em auto;
+    padding: 0 1em;
+  }
+  
+  /* Style for footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+  }
+  
